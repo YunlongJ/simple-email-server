@@ -1,0 +1,1 @@
+scp ./*js* google-temp-email:/home/dev/temp-email/

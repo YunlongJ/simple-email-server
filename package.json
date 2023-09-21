@@ -1,0 +1,17 @@
+{
+  "name": "presence-temp-email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yunlong",
+  "license": "ISC",
+  "dependencies": {
+    "ioredis": "^5.3.2",
+    "mailparser": "^3.6.5",
+    "smtp-server": "^3.13.0"
+  },
+  "type": "module"
+}
